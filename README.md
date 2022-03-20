@@ -1,5 +1,5 @@
 # Creational Design Patterns
-## Table of Contents
+## Contents
 - [Singleton](#singleton)
 - [Builder](#builder)
 - [Factory](#factory)
